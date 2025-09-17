@@ -1,0 +1,5 @@
+{
+  "name": "WordyPay",
+  "description": "A comprehensive financial application combining features of PayPal, Mobile Money, and Western Union, with an AI-powered financial assistant to provide smart financial insights.",
+  "requestFramePermissions": []
+}
